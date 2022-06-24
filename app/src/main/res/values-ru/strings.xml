@@ -15,7 +15,7 @@
   -->
 
 <resources>
-    <string name="settings_title">Game Space</string>
+    <string name="settings_title">Игровое пространство</string>
     <string name="settings_summary">Управляйте игровыми настройками</string>
     <string name="app_selector_label">Выберите свою игру</string>
     <string name="auto_brightness_disabled_title">Отключить авто-яркость</string>
